@@ -1,0 +1,5 @@
+{
+  "name": "Biometric Auth Portal",
+  "description": "A modern web application demonstrating secure, passwordless authentication using WebAuthn (Passkeys) with an email/OTP fallback mechanism.",
+  "requestFramePermissions": []
+}
